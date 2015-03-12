@@ -92,7 +92,7 @@ int main(void)
 	cudaFree(dev_b);//释放GPU内存
 	cudaFree(dev_c);//释放GPU内存
 
-	
+	//test
 
 	return 0;
 }
